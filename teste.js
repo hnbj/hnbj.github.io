@@ -1,1 +1,1 @@
-javascript:(function(){alert('teste')})();
+alert('teste');
